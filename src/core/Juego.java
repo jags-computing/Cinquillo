@@ -1,5 +1,5 @@
 /**
- * Representa el juego del Cinquillo-Oro, con sus reglas (definidas en el documento Primera entrega).
+ * Representa el juego del Cinquillo-Oro, con sus reglas
  * Se recomienda una implementación modular.
  */
 package src.core;
