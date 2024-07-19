@@ -35,8 +35,8 @@ seguindo unha secuencia específica na mesa.
 ## Fin do xogo
 
 * A partida remata cando un xogador coloca todas as súas cartas na mesa.
-* Ese xogador recibe os puntosPartida (4 puntos).
-* Os puntosOro asígnanse ao xogador que coloca o "ás de ouros".
+* Ese xogador recibe os **puntosPartida** (4 puntos).
+* Os **puntosOro** asígnanse ao xogador que coloca o **Ás de Ouros**.
 * Pódense xogar tantas partidas como se desexe.
   
 **O gañador final é o xogador con máis puntos acumulados, sumando puntosPartida e puntosOro.**
